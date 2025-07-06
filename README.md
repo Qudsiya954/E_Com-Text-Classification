@@ -27,8 +27,6 @@ cancel_order, confirm_order, order_status, change_address, contact_advisor, not_
 Text entries in 3 languages:
 
 en (English), hi (Hindi), es (Spanish)
-
-Preprocessed using custom tokenization and stopwords-iso filtering
 -----
 
 -----
