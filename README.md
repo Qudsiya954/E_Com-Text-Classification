@@ -1,4 +1,5 @@
 # E_Com-Text-Classification
+-----
 
 📌 Overview
 This project aims to build a multilingual intent classification system for e-commerce platforms that can accurately understand customer queries in English, Hindi, and Spanish. The system processes user queries and predicts their intent (e.g., cancel_order, order_status, general_query) using a combination of Sentence Transformers and machine learning classifiers.
@@ -15,7 +16,9 @@ Intent Classification: Trained models (e.g., MLP, SVM, Logistic Regression) clas
 Model Evaluation: 5-fold stratified cross-validation was used to evaluate model performance across intents.
 
 Deployment-Ready: All components are saved as .pkl files and can be reused without retraining.
+------
 
+-----
 🧠 Dataset Highlights
 Balanced across 7 intents:
 
@@ -26,8 +29,10 @@ Text entries in 3 languages:
 en (English), hi (Hindi), es (Spanish)
 
 Preprocessed using custom tokenization and stopwords-iso filtering
+-----
 
- Conclusion
+-----
+ Conclusion:
 This project successfully demonstrates that:
 
 Multilingual customer queries can be effectively understood using sentence embeddings.
